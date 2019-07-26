@@ -77,7 +77,7 @@ objects:
         serviceAccountName: tiller
 parameters:
 - name: HELM_VERSION
-  value: v2.13.0
+  value: v2.6.1
   required: true
 - name: TILLER_NAMESPACE
   required: true
